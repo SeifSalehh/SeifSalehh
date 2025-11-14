@@ -17,7 +17,7 @@ Retrieval-Augmented Generation system for semantic search across internal knowle
 Designed for fast, accurate answer retrieval at scale.
 
 **Tech:** Python • FastAPI • Vector DB • LangChain  
-**Repo:** _Private (available on request)_
+**Repo:**  https://github.com/seifsalehh/Rag-Chatbot-for-One-Pagers
 
 ---
 
