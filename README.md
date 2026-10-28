@@ -1,7 +1,8 @@
 # **Seif Saleh**
 
 Full-stack Software Developer  
-CS Student @ University of Debrecen  
+University of Debrecen Alumni
+Software Engineer @ Deloitte
 
 
 ---
